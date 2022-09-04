@@ -7,3 +7,7 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] Add text
+- [x] Add Picture
+- [x] Add Code
+- [ ] Add Task List
